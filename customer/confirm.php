@@ -133,10 +133,10 @@
 						      <label for="payment_mode">Select Payment Method</label>
 						      <select class="custom-select mr-sm-2" name="payment_mode" id="payment_mode">
 						        <option selected>Choose...</option>
-						        <option value="Bank Code">Bank Code</option>
-						        <option value="UBL/Omni Paisa">UBL/Omni Paisa</option>
-						        <option value="Easy Paisa">Easy Paisa</option>
-						        <option value="Uestern Union">Uestern Union</option>
+						        <option value="Bank Code">Visa</option>
+						        <option value="UBL/Omni Paisa">American Express</option>
+						        <option value="Easy Paisa">Bank of China</option>
+						        <option value="Uestern Union">Western Union</option>
 						      </select>
 						      <div class="invalid-feedback">
 						        Please select a method.
@@ -145,19 +145,19 @@
 						  </div>
 						  <div class="form-row">
 						    <div class="col-12 mb-3">
-						      <label for="ref_no">Transaction/Refference ID</label>
+						      <label for="ref_no">Transaction/Reference ID</label>
 						      <input type="number" name="ref_no" class="form-control" id="ref_no" required>
 						      <div class="invalid-feedback">
-						        Please provide a Transaction/Refference ID.
+						        Please provide a Transaction/Reference ID.
 						      </div>
 						    </div>
 						  </div>
 						  <div class="form-row">
 						    <div class="col-12 mb-3">
-						      <label for="code">Easy Paisa/Omni Code</label>
+						      <label for="code">Card number</label>
 						      <input type="text" name="code" class="form-control" id="code" required>
 						      <div class="invalid-feedback">
-						        Please provide a Easy Paisa/Omni Code.
+						        Please provide a card number.
 						      </div>
 						    </div>
 						  </div>
