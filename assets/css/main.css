@@ -99,7 +99,7 @@ body{
 
 .navbar-nav li:hover a{
   text-decoration: none;
-  background-color: gray;
+  background-color: #337ab7;
   color: white;
 }
 
@@ -360,5 +360,5 @@ body{
   top: 0;
   right: 90px;
   margin-bottom: 10%;
-  color: gray;
+  color: #337ab7;
 }
