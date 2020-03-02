@@ -23,7 +23,7 @@ body{
 }
 
 #top .offer{
-  color: #fff;
+  color: #eea47fff;
 }
 
 #top .offer .btn{
@@ -256,7 +256,7 @@ body{
 
 #copyright{
   background-color: #333;
-  color: #ccc;
+  color: #eea47fff;
   padding: 20px 0;
   font-size: 12px;
 }

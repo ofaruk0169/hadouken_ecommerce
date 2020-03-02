@@ -35,7 +35,7 @@
 
 
 
-    <title>eCommerce Store</title>
+    <title>Hadouken! Online FGC store</title>
   </head>
   <body>
 
