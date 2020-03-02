@@ -55,7 +55,7 @@
 			  <a href="details.php?product_id=<?php echo $product_id; ?>"><img class="card-img-top img-fluid p-3" src="admin_area/product_images/<?php echo $product_img1; ?>" alt="Card image cap"></a>
 			  <div class="card-body text-center">
 			    <h6 class="card-title"><a href="details.php?product_id=<?php echo $product_id; ?>"><?php echo $product_title; ?></a></h6>
-			    <h5 class="card-text">Price : $<?php echo $product_price; ?></h5>
+			    <h5 class="card-text">Price : £<?php echo $product_price; ?></h5>
 			    <div class="row">
 						<div class="col-md-6  pr-1 pb-2">
 							<a href="details.php?product_id=<?php echo $product_id; ?>" class="btn btn-outline-info form-control">Details</a>

@@ -324,7 +324,7 @@
 						$product_price = "<del>$$product_price</del>";
 						$product_psp_price = "<i class='fas fa-long-arrow-alt-right'></i> $$product_psp_price";
 					}else{
-						$product_price = "$$product_price";
+						$product_price = "£$product_price";
 						$product_psp_price = "";
 					}
 	  	?>
