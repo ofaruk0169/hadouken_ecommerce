@@ -18,7 +18,7 @@ body{
 
 /* Top Navbar Styles */
 #top{
-  background: #555555;
+  background: #337ab7;
   padding: 10px 0px;
 }
 
@@ -98,14 +98,14 @@ body{
 
 .active{
   text-decoration: none;
-  background-color: gray;
+  background-color: #337ab7;
   color: white !important;
 }
 
 
 .navbar-nav li:hover a{
   text-decoration: none;
-  background-color: gray;
+  background-color: #337ab7;
   color: white;
 }
 
