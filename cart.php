@@ -154,10 +154,10 @@
 								    <tr>
 								      <th colspan="2" scope="col">Product</th>
 								      <th scope="col" width="20%">Quantity</th>
-								      <th scope="col">Unit Price ($)</th>
+								      <th scope="col">Unit Price (£)</th>
 								      <th scope="col">Size</th>
 								      <th scope="col">Delete</th>
-								      <th scope="col">Sub Total ($)</th>
+								      <th scope="col">Sub Total (£)</th>
 								    </tr>
 								  </thead>
 								  <tbody>
@@ -191,7 +191,7 @@
 								      <td>
 												<input type="number" name="quentity" value="<?php echo $_SESSION['product_qty'] ;?>" data-product_id = "<?php echo $product_id; ?>" class="quentity form-control" >
 								      </td>
-								      <td>$ <?php echo $product_price; ?></td>
+								      <td>£ <?php echo $product_price; ?></td>
 								      <td><?php echo ucwords($product_size); ?></td>
 								      <td>
 								      	<div class="custom-control custom-checkbox">
@@ -199,7 +199,7 @@
 									        <label class="custom-control-label" for="checkbox['<?php echo $product_id; ?>']"></label>
 									      </div>
 								      </td>
-								      <td class="text-right">$ <?php echo number_format($sub_total, 2) ; ?></td>
+								      <td class="text-right">£ <?php echo number_format($sub_total, 2) ; ?></td>
 								    </tr>
 									<?php } } ?>
 
@@ -274,19 +274,19 @@
 						  <tbody>
 						    <tr>
 						      <td>Price</td>
-						      <td class="text-right">$ <?php echo number_format($total, 2); ?></td>
+						      <td class="text-right">£ <?php echo number_format($total, 2); ?></td>
 						    </tr>
 						    <tr>
 						      <td>Tax</td>
-						      <td class="text-right">$ <?php echo number_format($tax = ($total * 5) / 100, 2); ?></td>
+						      <td class="text-right">£ <?php echo number_format($tax = ($total * 5) / 100, 2); ?></td>
 						    </tr>
 						    <tr>
 						      <td>Shipping</td>
-						      <td class="text-right">$ <?php echo number_format($shipping = ($total * 4.5) / 100, 2); ?></td>
+						      <td class="text-right">£ <?php echo number_format($shipping = ($total * 4.5) / 100, 2); ?></td>
 						    </tr>
 						    <tr>
 						      <th>Total</th>
-						      <th class="text-right">$ <?php echo number_format($total + $tax + $shipping, 2); ?></th>
+						      <th class="text-right">£ <?php echo number_format($total + $tax + $shipping, 2); ?></th>
 						    </tr>
 						  </tbody>
 						</table>

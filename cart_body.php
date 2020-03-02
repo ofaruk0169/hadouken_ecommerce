@@ -35,7 +35,7 @@
 							?>
 						</a>
 
-						<a href="#">Shopping Cart: Sub-Total Price $ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
+						<a href="#">Shopping Cart: Sub-Total Price £ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
 
 
 					</div> <!-- col-md-6 offer Ends -->
@@ -140,10 +140,10 @@
 								    <tr>
 								      <th colspan="2" scope="col">Product</th>
 								      <th scope="col" width="20%">Quantity</th>
-								      <th scope="col">Unit Price ($)</th>
+								      <th scope="col">Unit Price (£)</th>
 								      <th scope="col">Size</th>
 								      <th scope="col">Delete</th>
-								      <th scope="col">Sub Total ($)</th>
+								      <th scope="col">Sub Total (£)</th>
 								    </tr>
 								  </thead>
 								  <tbody>
@@ -302,7 +302,7 @@
 
 					if ($product_label == "Sale" || $product_label == "Gift") {
 						$product_price = "<del>£$product_price</del>";
-						$product_psp_price = "<i class='fas fa-long-arrow-alt-right'></i> $$product_psp_price";
+						$product_psp_price = "<i class='fas fa-long-arrow-alt-right'></i> £$product_psp_price";
 					}else{
 						$product_price = "£$product_price";
 						$product_psp_price = "";
@@ -313,7 +313,7 @@
 					<div class="card">
 					  <a href="details.php?product_id=<?php echo $product_id; ?>"><img class="card-img-top img-fluid p-3" src="admin_area/product_images/<?php echo $product_img1; ?>" alt="Card image cap"></a>
 					  <div class="card-body text-center">
-					  	<p class="btn btn-sm btn-info mb-0">Mnf By : <?php echo $manufacturer_title; ?></p><hr>
+					  	<p class="btn btn-sm btn-info mb-0">By : <?php echo $manufacturer_title; ?></p><hr>
 					    <h6 class="card-title"><a href="details.php?product_id=<?php echo $product_id; ?>"><?php echo $product_title; ?></a></h6>
 					    <p class="card-text"><?php echo $product_price; ?> <?php echo $product_psp_price; ?></p>
 					    <div class="row">
