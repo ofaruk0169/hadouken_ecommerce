@@ -6,29 +6,29 @@
 			<thead>
 				<tr>
 					<th scope="col">Bank Account Details</th>
-					<th scope="col">Easy Pisa, UBL Omni, Mobi Cash Details</th>
-					<th scope="col">Western Union Details</th>
+					<th scope="col">Random Bank </th>
+					<th scope="col">The Details</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr class="text-left">
 					<td>
-						<p>Bank Name : Dutch Bangla Bank Ltd.</p>
+						<p>Bank Name : The bank</p>
 						<p>Account No : 1234567890</p>
-						<p>Account Holder Name : Shishir Sarder</p>
+						<p>Account Holder Name : You</p>
 						<p>Branch Code : 0324</p>
-						<p>Branch Name : Dhaka</p>
+						<p>Branch Name : Mystery Bank</p>
 					</td>
 					<td>
 						<p>NIC : #234512349</p>
-						<p>Mobile No : +8801723795078</p>
-						<p>Name : Shishir Sarder</p>
+						<p>Mobile No : +0000000000</p>
+						<p>Name : The Name</p>
 					</td>
 					<td>
-						<p>Full Name : Russel T. Ahmed</p>
-						<p>Mobile No : +8801723795078</p>
-						<p>Country : Bangladesh</p>
-						<p>N.I.C No : #423453543646</p>
+						<p>Full Name : The Name</p>
+						<p>Mobile No : +0000000000</p>
+						<p>Country : England</p>
+						<p>No : #423453543646</p>
 					</td>
 				</tr>
 

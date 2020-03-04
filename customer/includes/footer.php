@@ -37,13 +37,13 @@
 					<div class="col-sm-6 col-md-3">
 						<h4>Where we Are?</h4>
 						<address>
-		          <strong>BDLabIT</strong><br>
-		          B-18, Subhanbag<br>
-		          Savar, Dhaka 1340<br><br>
-		          <i class="fas fa-phone-square"></i><span class="sr-only">Telephone:</span> <a href="tel:+8801772981998">(+880) 1772981998</a><br>
-		          <i class="fas fa-envelope"></i><span class="sr-only">Mail:</span> <a href="mailto:info@bdlabit.com">info@bdlabit.com</a>
+		          <strong>ONet</strong><br>
+				  Greater Manchester<br>
+		          Tameside/Oldham Area<br><br>
+		          <i class="fas fa-phone-square"></i><span class="sr-only">Telephone:</span> <a href="tel:+8801772981998">(+44) 7456764403</a><br>
+		          <i class="fas fa-envelope"></i><span class="sr-only">Mail:</span> <a href="mailto:info@bdlabit.com">ofaruk0169@gmail.com</a>
 		        </address>
-		        <a href="contact.php">Go to Contact Us Page</a>
+		        <a href="../contact.php">Go to Contact Us Page</a>
 						<hr class="hidden-md-down hidden-lg-down">
 					</div>
 
@@ -78,10 +78,10 @@
 			<div class="container text-center">
 				<div class="row">
 					<div class="col-md-6">
-						<p class="text-lg-left">&copy; 2018 Obydullah Shishir</p>
+						<p class="text-lg-left">&copy; 2020 Omar Faruk</p>
 					</div>
 					<div class="col-md-6">
-						<p class="text-lg-right">Template by <a href="http://www.obydullahshishir.com">Obydullah Shishir</a></p>
+						<p class="text-lg-right">Template by <a href="https://github.com/ofaruk0169">Omar Faruk</a></p>
 					</div>
 				</div>
 			</div>

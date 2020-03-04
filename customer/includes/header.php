@@ -43,7 +43,7 @@
 			<div class="container"> <!-- Container Starts -->
 				<div class="row"> <!-- row Starts -->
 					<div class="col-md-6 offer"> <!-- col-md-6 offer Starts -->
-						<a href="customer/my_account.php" class="btn btn-info btn-sm">
+						<a href="#" class="btn btn-info btn-sm">
 							<?php
 								if (!isset($_SESSION['customer_email'])) {
 									echo 'Welcome : Guest';
@@ -55,16 +55,16 @@
 							?>
 						</a>
 						<?php if (isset($_SESSION['customer_email'])): ?>
-							<a href="#">Shopping Cart Total Price $ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
+							<a href="#">Shopping Cart Total Price £ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
 						<?php else: ?>
-							<a href="#">Shopping Cart Total Price $ 0, Total Items : 0</a>
+							<a href="#">Shopping Cart Total Price £ 0, Total Items : 0</a>
 						<?php endif ?>
 					</div> <!-- col-md-6 offer Ends -->
 
 					<div class="col-md-6"> <!-- col-md-6 Starts -->
 						<ul class="menu"> <!-- menu starts -->
 							<li><a href="../customer_register.php">Register</a></li>
-							<li><a href="../checkout.php">My Account</a></li>
+							<li><a href="#">My Account</a></li>
 							<li><a href="../cart.php">Go To Cart</a></li>
 							<li>
 								<?php if (!isset($_SESSION['customer_email'])): ?>

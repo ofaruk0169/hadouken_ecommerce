@@ -33,7 +33,7 @@
 
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
-    <title>eCommerce Store</title>
+    <title>Hadouken Fighting Wear</title>
   </head>
   <body>
 
@@ -53,7 +53,7 @@
 							?>
 						</a>
 
-						<a href="#">Shopping Cart: Sub-Total Price $ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
+						<a href="#">Shopping Cart: Sub-Total Price £ <?php echo $total; ?>, Total Items : <?php echo $getFromU->count_product_by_ip($ip_add); ?></a>
 
 
 					</div> <!-- col-md-6 offer Ends -->
