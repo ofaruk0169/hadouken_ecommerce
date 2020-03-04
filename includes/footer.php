@@ -85,7 +85,7 @@
 						<p class="text-lg-left">&copy; 2020 Omar Faruk</p>
 					</div>
 					<div class="col-md-6">
-						<p class="text-lg-right">Template by <a href="https://github.com/ofaruk0169">Omar Faruk</a></p>
+						<p class="text-lg-right">Website by<a href="https://github.com/ofaruk0169">Omar Faruk</a></p>
 					</div>
 				</div>
 			</div>
