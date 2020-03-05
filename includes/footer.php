@@ -65,11 +65,10 @@
 						<hr class="hidden-md-down hidden-lg-down">
 						<h4>Get in Touch</h4>
 						<p class="social">
-							<a href="#"><i class="fab fa-facebook-square"></i></a>
-							<a href="#"><i class="fab fa-twitter-square"></i></a>
-							<a href="#"><i class="fab fa-instagram"></i></a>
-							<a href="#"><i class="fab fa-google-plus-square"></i></a>
-							<a href="#"><i class="fas fa-envelope"></i></a>
+							<a href="https://open.spotify.com/user/3cvol9wlqnblmxj0xv56crj8a" target="_blank"><i class="fab fa-spotify"></i></a>
+							<a href="https://www.linkedin.com/in/omare-faruk-776336155/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://www.instagram.com/o.f0169/" target="_blank"><i class="fab fa-instagram"></i></a>
+							<a href="https://github.com/ofaruk0169" target="_blank"><i class="fab fa-github"></i></a>
 						</p>
 					</div>
 
