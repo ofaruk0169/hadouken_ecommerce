@@ -30,6 +30,8 @@
 
     <link rel="stylesheet" type="text/css" href="assets/css/sweetalert.css">
 
+	<link rel="shortcut icon" type="images/png" href="assets/images/hadouken.png">
+
   <!--   <link rel="stylesheet" type="text/css" href="assets/css/normalize.css"> -->
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
 

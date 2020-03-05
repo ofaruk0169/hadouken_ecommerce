@@ -31,6 +31,8 @@
   <!--   <link rel="stylesheet" type="text/css" href="assets/css/normalize.css"> -->
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
 
+	<link rel="shortcut icon" type="images/png" href="assets/images/hadouken.png">
+
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
     <title>Hadouken Fighting Wear</title>
