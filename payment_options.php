@@ -11,8 +11,8 @@
 
 <div class="card">
   <div class="card-body text-center">
-    <h5 class="card-title">Payment Options For Yoy</h5>
-    <p class="card-text mb-5">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Payment Options For You</h5>
+    <p class="card-text mb-5">Pay offline as a demo to complete payments. Or test the Paypal payement feature. You will not actually be charged for anything on this website this is just a fun portfolio project.</p>
     <a href="order.php?c_id=<?php echo $customer_id; ?>" class="btn btn-info text-white"><i class="fas fa-hand-holding-usd"></i> Pay Offline</a>
 
 
