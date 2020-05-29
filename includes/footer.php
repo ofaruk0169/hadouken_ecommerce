@@ -18,6 +18,8 @@
 								<li><a href="logout.php">Logout</a></li>
 							<?php endif ?>
 							<li><a href="customer_register.php">Register</a></li>
+							<li><a href="admin_area/login.php">Admin</a></li>
+
 							<li><a href="terms.php">Terms &amp; Conditions</a></li>
 						</ul>
 						<hr class="hidden-md-down hidden-lg-down hidden-sm-down">
