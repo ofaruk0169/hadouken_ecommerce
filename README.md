@@ -1,3 +1,3 @@
-# Modern-E-Commerce-Store
-Modern E-Commerce Store using PDO, MySQL, Ajax, jQuery, PayPal Integration
-# hadouken_ecommerce
+# Hadouken-E-Commerce-Store
+E-Commerce store made using PDO, MySQL, Ajax, jQuery, PayPal Integration
+
